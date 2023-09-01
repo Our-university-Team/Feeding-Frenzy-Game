@@ -2,6 +2,10 @@
 
 Feeding Frenzy Game Created using Java and Javafx
 
+>>> Game Play
+
+https://youtu.be/uEIMflMvy5E?si=NA8HwQu1WkG2V6x_
+
 ![image](https://github.com/1MostafaAyman1/Feeding-Frenzy-Game/assets/80271742/7707f8d2-0708-4ae6-8ba9-d32ff5414602)
 
 1-first you have to install intellja 
@@ -41,3 +45,16 @@ https://www.youtube.com/watch?v=viNG3VVnzFE&t=448s&ab_channel=GeekyScript
 12-Finally click on download Amazon Corretto … then Run 😊
 
 ![image](https://github.com/1MostafaAyman1/Feeding-Frenzy-Game/assets/80271742/2a5f51c9-7800-4fe2-ba35-ff4f18837d19)
+
+
+
+
+
+
+
+
+
+
+
+
+
